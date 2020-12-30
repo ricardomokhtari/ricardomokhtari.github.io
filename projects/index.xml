@@ -5,34 +5,43 @@
     <link>ricardomokhtari.github.io/projects/</link>
     <description>Recent content in Projects on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="ricardomokhtari.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    <lastBuildDate>Wed, 30 Dec 2020 15:48:16 +0000</lastBuildDate><atom:link href="ricardomokhtari.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>ricardomokhtari.github.io/projects/photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Data Science Projects</title>
+      <link>ricardomokhtari.github.io/projects/data-science/</link>
+      <pubDate>Wed, 30 Dec 2020 15:37:19 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>ricardomokhtari.github.io/projects/data-science/</guid>
+      <description>This is a collection of open source datasets that I&amp;rsquo;ve analysed in my free time. I share my results in the form of jupyter notebooks, which I share on my GitHub.</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>ricardomokhtari.github.io/projects/design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>PositiviTree</title>
+      <link>ricardomokhtari.github.io/projects/positivitree/</link>
+      <pubDate>Wed, 30 Dec 2020 15:38:17 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>ricardomokhtari.github.io/projects/positivitree/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>ricardomokhtari.github.io/projects/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Correct-a-Spine</title>
+      <link>ricardomokhtari.github.io/projects/correct-a-spine/</link>
+      <pubDate>Wed, 30 Dec 2020 15:48:16 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>ricardomokhtari.github.io/projects/correct-a-spine/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over EASI</title>
+      <link>ricardomokhtari.github.io/projects/over-easi/</link>
+      <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
+      
+      <guid>ricardomokhtari.github.io/projects/over-easi/</guid>
+      <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
+Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
     </item>
     
   </channel>

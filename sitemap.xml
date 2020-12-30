@@ -1,25 +1,53 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-  <sitemap>
-    <loc>ricardomokhtari.github.io/es/sitemap.xml</loc>
-    
-      <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>ricardomokhtari.github.io/projects/data-science/</loc>
+    <lastmod>2020-12-30T15:37:19+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>ricardomokhtari.github.io/de/sitemap.xml</loc>
-    
-      <lastmod>2017-11-13T11:58:39-05:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>ricardomokhtari.github.io/projects/positivitree/</loc>
+    <lastmod>2020-12-30T15:38:17+00:00</lastmod>
+  </url>
   
-  <sitemap>
-    <loc>ricardomokhtari.github.io/en/sitemap.xml</loc>
-    
-      <lastmod>2020-07-25T02:04:06-05:00</lastmod>
-    
-  </sitemap>
+  <url>
+    <loc>ricardomokhtari.github.io/projects/correct-a-spine/</loc>
+    <lastmod>2020-12-30T15:48:16+00:00</lastmod>
+  </url>
   
-</sitemapindex>
+  <url>
+    <loc>ricardomokhtari.github.io/projects/over-easi/</loc>
+    <lastmod>2020-12-30T15:47:45+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/projects/</loc>
+    <lastmod>2020-12-30T15:48:16+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/blog/</loc>
+    <lastmod>2020-12-30T17:40:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/blog/hello_world/</loc>
+    <lastmod>2020-12-30T17:40:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/</loc>
+    <lastmod>2020-12-30T17:40:35+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/series/</loc>
+  </url>
+  
+  <url>
+    <loc>ricardomokhtari.github.io/tags/</loc>
+  </url>
+  
+</urlset>

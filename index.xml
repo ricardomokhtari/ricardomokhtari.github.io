@@ -6,92 +6,52 @@
     <description>Recent content on Introduction</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 Jul 2020 02:04:06 -0500</lastBuildDate><atom:link href="ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 17:40:35 +0000</lastBuildDate><atom:link href="ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Photography</title>
-      <link>ricardomokhtari.github.io/projects/photography/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Data Science Projects</title>
+      <link>ricardomokhtari.github.io/projects/data-science/</link>
+      <pubDate>Wed, 30 Dec 2020 15:37:19 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/photography/</guid>
-      <description>Sometimes I take pictures This project is about the pictures I take. Sometimes, they are pictures of cats.</description>
+      <guid>ricardomokhtari.github.io/projects/data-science/</guid>
+      <description>This is a collection of open source datasets that I&amp;rsquo;ve analysed in my free time. I share my results in the form of jupyter notebooks, which I share on my GitHub.</description>
     </item>
     
     <item>
-      <title>Design</title>
-      <link>ricardomokhtari.github.io/projects/design/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>PositiviTree</title>
+      <link>ricardomokhtari.github.io/projects/positivitree/</link>
+      <pubDate>Wed, 30 Dec 2020 15:38:17 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/design/</guid>
-      <description>This theme was designed by Victoria Drake. Go on, explore! 💪
-If you want to use it for your website, check out the section at the bottom of the main page. 👍</description>
+      <guid>ricardomokhtari.github.io/projects/positivitree/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Writing</title>
-      <link>ricardomokhtari.github.io/projects/writing/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <title>Correct-a-Spine</title>
+      <link>ricardomokhtari.github.io/projects/correct-a-spine/</link>
+      <pubDate>Wed, 30 Dec 2020 15:48:16 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/writing/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong.
-To go viennese cream to go, flavour, so mocha as, carajillo iced et a siphon froth. Aged, eu, cup, brewed aroma kopi-luwak, coffee, id viennese french press brewed grounds acerbic froth. Decaffeinated acerbic, spoon beans seasonal, french press café au lait mazagran roast chicory, pumpkin spice galão as fair trade, dark irish cup ristretto half and half whipped shop.</description>
+      <guid>ricardomokhtari.github.io/projects/correct-a-spine/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>Theme Features</title>
-      <link>ricardomokhtari.github.io/blog/configuration/</link>
-      <pubDate>Sat, 25 Jul 2020 02:04:06 -0500</pubDate>
+      <title>Over EASI</title>
+      <link>ricardomokhtari.github.io/projects/over-easi/</link>
+      <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/blog/configuration/</guid>
-      <description>Here are some helpful tips for setting up this theme.
-Syntax Highlighting Introduction allows the use of Hugo&amp;rsquo;s rich built-in syntax highlighting capabilities. See Syntax Highlighting in the Hugo docs.
-Below is an example configuration for Highlight. See Highlight in the Hugo docs for more.
-[markup] [markup.highlight] codeFences = true guessSyntax = false hl_Lines = &amp;#34;&amp;#34; lineNoStart = 1 lineNos = false lineNumbersInTable = true noClasses = true # For styles, see https://xyproto.</description>
+      <guid>ricardomokhtari.github.io/projects/over-easi/</guid>
+      <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
+Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
     </item>
     
     <item>
-      <title>**Long** Form Post!</title>
-      <link>ricardomokhtari.github.io/blog/long-form-post/</link>
-      <pubDate>Thu, 30 May 2019 20:18:53 -0500</pubDate>
+      <title>Hello World!</title>
+      <link>ricardomokhtari.github.io/blog/hello_world/</link>
+      <pubDate>Wed, 30 Dec 2020 17:40:35 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/blog/long-form-post/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus eget nunc scelerisque viverra. Quam vulputate dignissim suspendisse in est ante in nibh mauris. Pharetra magna ac placerat vestibulum lectus mauris. Eget lorem dolor sed viverra ipsum.
-Elementum Nisi Quis eleifend quam adipiscing. Aliquet nec ullamcorper sit amet risus. Auctor neque vitae tempus quam pellentesque. Tincidunt lobortis feugiat vivamus at augue.</description>
-    </item>
-    
-    <item>
-      <title>Hipster Ipsum</title>
-      <link>ricardomokhtari.github.io/blog/hipster-ipsum/</link>
-      <pubDate>Mon, 13 Nov 2017 11:58:39 -0500</pubDate>
-      
-      <guid>ricardomokhtari.github.io/blog/hipster-ipsum/</guid>
-      <description>Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress.</description>
-    </item>
-    
-    <item>
-      <title>Startup Ipsum</title>
-      <link>ricardomokhtari.github.io/blog/startup-ipsum/</link>
-      <pubDate>Mon, 06 Nov 2017 12:04:06 -0500</pubDate>
-      
-      <guid>ricardomokhtari.github.io/blog/startup-ipsum/</guid>
-      <description>SpaceTeam affordances quantitative vs. qualitative SpaceTeam physical computing earned media thinker-maker-doer pair programming. Bootstrapping pitch deck physical computing driven cortado human-centered design innovate human-centered design driven. Grok pitch deck fund pitch deck sticky note affordances minimum viable product integrate paradigm viral iterate. Driven fund thought leader personas workflow SpaceTeam viral pair programming physical computing intuitive 360 campaign latte bootstrapping minimum viable product. Bootstrapping physical computing responsive pitch deck SpaceTeam parallax long shadow pitch deck bootstrapping ideate.</description>
-    </item>
-    
-    <item>
-      <title>Coffee Ipsum</title>
-      <link>ricardomokhtari.github.io/blog/coffee-ipsum/</link>
-      <pubDate>Wed, 01 Nov 2017 12:04:16 -0500</pubDate>
-      
-      <guid>ricardomokhtari.github.io/blog/coffee-ipsum/</guid>
-      <description>Aromatic aroma con panna, crema so coffee robust coffee barista, café au lait trifecta that strong blue mountain cortado aftertaste. Aroma extraction french press, skinny sweet, blue mountain cup roast barista, beans, extra cappuccino mug crema strong. Americano caffeine white, con panna saucer sit, con panna eu, carajillo aftertaste kopi-luwak, body aftertaste cup single origin café au lait saucer. Macchiato java sweet arabica, turkish cup, eu flavour mug extraction white cortado saucer est white brewed instant, rich, barista breve cappuccino barista organic.</description>
-    </item>
-    
-    <item>
-      <title>Undated post</title>
-      <link>ricardomokhtari.github.io/blog/no-date/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>ricardomokhtari.github.io/blog/no-date/</guid>
-      <description>I was born yesterday, tomorrow.</description>
+      <guid>ricardomokhtari.github.io/blog/hello_world/</guid>
+      <description>I decided to make this site so I could have a single place on the internet where I can access and share information about myself and things that I&amp;rsquo;ve worked on. Instead of having to go to my GitHub or my project page, it&amp;rsquo;s all here now.
+How did I make this site? In all honesty, I didn&amp;rsquo;t. My goal here isn&amp;rsquo;t to come up with some fancy website with really cool features (if you&amp;rsquo;re looking for one of those, check this out) - I just wanted a space on the internet to house my projects, CV, a blog and my contact details.</description>
     </item>
     
   </channel>
