@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ricardo Mokhtari</title>
-    <link>ricardomokhtari.github.io/</link>
+    <link>https://ricardomokhtari.github.io/</link>
     <description>Recent content on Ricardo Mokhtari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 17:40:35 +0000</lastBuildDate><atom:link href="ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 17:40:35 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Projects</title>
-      <link>ricardomokhtari.github.io/projects/data-science/</link>
+      <link>https://ricardomokhtari.github.io/projects/data-science/</link>
       <pubDate>Wed, 30 Dec 2020 15:37:19 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/data-science/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/data-science/</guid>
       <description>This is a collection of open source datasets that I&amp;rsquo;ve analysed in my free time. I share my results in the form of jupyter notebooks, which I share on my GitHub.</description>
     </item>
     
     <item>
       <title>PositiviTree</title>
-      <link>ricardomokhtari.github.io/projects/positivitree/</link>
+      <link>https://ricardomokhtari.github.io/projects/positivitree/</link>
       <pubDate>Wed, 30 Dec 2020 15:38:17 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/positivitree/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/positivitree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Over EASI</title>
-      <link>ricardomokhtari.github.io/projects/over-easi/</link>
+      <link>https://ricardomokhtari.github.io/projects/over-easi/</link>
       <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/over-easi/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/over-easi/</guid>
       <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
 Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
     </item>
     
     <item>
       <title>Hello World!</title>
-      <link>ricardomokhtari.github.io/blog/hello_world/</link>
+      <link>https://ricardomokhtari.github.io/blog/hello_world/</link>
       <pubDate>Wed, 30 Dec 2020 17:40:35 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/blog/hello_world/</guid>
+      <guid>https://ricardomokhtari.github.io/blog/hello_world/</guid>
       <description>I decided to make this site so I could have a single place on the internet where I can access and share information about myself and things that I&amp;rsquo;ve worked on. Instead of having to go to my GitHub or my project page, it&amp;rsquo;s all here now.
 How did I make this site? In all honesty, I didn&amp;rsquo;t. My goal here isn&amp;rsquo;t to come up with some fancy website with really cool features (if you&amp;rsquo;re looking for one of those, check this out) - I just wanted a space on the internet to house my projects, CV, a blog and my contact details.</description>
     </item>

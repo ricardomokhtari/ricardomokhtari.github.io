@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Ricardo Mokhtari</title>
-    <link>ricardomokhtari.github.io/projects/</link>
+    <link>https://ricardomokhtari.github.io/projects/</link>
     <description>Recent content in Projects on Ricardo Mokhtari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 15:47:45 +0000</lastBuildDate><atom:link href="ricardomokhtari.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 15:47:45 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Data Science Projects</title>
-      <link>ricardomokhtari.github.io/projects/data-science/</link>
+      <link>https://ricardomokhtari.github.io/projects/data-science/</link>
       <pubDate>Wed, 30 Dec 2020 15:37:19 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/data-science/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/data-science/</guid>
       <description>This is a collection of open source datasets that I&amp;rsquo;ve analysed in my free time. I share my results in the form of jupyter notebooks, which I share on my GitHub.</description>
     </item>
     
     <item>
       <title>PositiviTree</title>
-      <link>ricardomokhtari.github.io/projects/positivitree/</link>
+      <link>https://ricardomokhtari.github.io/projects/positivitree/</link>
       <pubDate>Wed, 30 Dec 2020 15:38:17 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/positivitree/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/positivitree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Over EASI</title>
-      <link>ricardomokhtari.github.io/projects/over-easi/</link>
+      <link>https://ricardomokhtari.github.io/projects/over-easi/</link>
       <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
       
-      <guid>ricardomokhtari.github.io/projects/over-easi/</guid>
+      <guid>https://ricardomokhtari.github.io/projects/over-easi/</guid>
       <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
 Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
     </item>
