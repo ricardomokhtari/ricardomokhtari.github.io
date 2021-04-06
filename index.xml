@@ -8,6 +8,15 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Dec 2020 17:40:35 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Intelligent Web Crawling</title>
+      <link>https://ricardomokhtari.github.io/projects/intelligent-web-crawling/</link>
+      <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
+      
+      <guid>https://ricardomokhtari.github.io/projects/intelligent-web-crawling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Science Projects</title>
       <link>https://ricardomokhtari.github.io/projects/data-science/</link>
       <pubDate>Wed, 30 Dec 2020 15:37:19 +0000</pubDate>
@@ -23,6 +32,15 @@
       
       <guid>https://ricardomokhtari.github.io/projects/positivitree/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Correct-a-Spine</title>
+      <link>https://ricardomokhtari.github.io/projects/correct-a-spine/</link>
+      <pubDate>Wed, 30 Dec 2020 15:48:16 +0000</pubDate>
+      
+      <guid>https://ricardomokhtari.github.io/projects/correct-a-spine/</guid>
+      <description>Part of IC HealthHack 2019 - myself and 3 others built a wearable posture monitoring device for dynamically monitoring user posture and preventing spinal injury. Check out the Devpost!</description>
     </item>
     
     <item>
