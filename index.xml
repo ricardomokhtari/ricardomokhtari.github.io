@@ -6,7 +6,7 @@
     <description>Recent content on Ricardo Mokhtari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 30 Dec 2020 17:40:35 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 30 Dec 2020 15:48:16 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Intelligent Web Crawling</title>
       <link>https://ricardomokhtari.github.io/projects/intelligent-web-crawling/</link>
@@ -51,16 +51,6 @@
       <guid>https://ricardomokhtari.github.io/projects/over-easi/</guid>
       <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
 Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
-    </item>
-    
-    <item>
-      <title>Hello World!</title>
-      <link>https://ricardomokhtari.github.io/blog/hello_world/</link>
-      <pubDate>Wed, 30 Dec 2020 17:40:35 +0000</pubDate>
-      
-      <guid>https://ricardomokhtari.github.io/blog/hello_world/</guid>
-      <description>I decided to make this site so I could have a single place on the internet where I can access and share information about myself and things that I&amp;rsquo;ve worked on. Instead of having to go to my GitHub or my project page, it&amp;rsquo;s all here now.
-How did I make this site? In all honesty, I didn&amp;rsquo;t. My goal here isn&amp;rsquo;t to come up with some fancy website with really cool features (if you&amp;rsquo;re looking for one of those, check this out) - I just wanted a space on the internet to house my projects, CV, a blog and my contact details.</description>
     </item>
     
   </channel>
