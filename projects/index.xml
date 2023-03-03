@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Projects on Ricardo Mokhtari</title>
+    <title>Open Source on Ricardo Mokhtari</title>
     <link>https://ricardomokhtari.github.io/projects/</link>
-    <description>Recent content in Projects on Ricardo Mokhtari</description>
+    <description>Recent content in Open Source on Ricardo Mokhtari</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Dec 2020 15:48:16 +0000</lastBuildDate><atom:link href="https://ricardomokhtari.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IBD-INTERPRET</title>
+      <link>https://ricardomokhtari.github.io/projects/ibd-interpret/</link>
+      <pubDate>Wed, 30 Dec 2020 15:48:16 +0000</pubDate>
+      
+      <guid>https://ricardomokhtari.github.io/projects/ibd-interpret/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Intelligent Web Crawling</title>
       <link>https://ricardomokhtari.github.io/projects/intelligent-web-crawling/</link>
@@ -41,16 +50,6 @@
       
       <guid>https://ricardomokhtari.github.io/projects/correct-a-spine/</guid>
       <description>Part of IC HealthHack 2019 - myself and 3 others built a wearable posture monitoring device for dynamically monitoring user posture and preventing spinal injury. Check out the Devpost!</description>
-    </item>
-    
-    <item>
-      <title>Over EASI</title>
-      <link>https://ricardomokhtari.github.io/projects/over-easi/</link>
-      <pubDate>Wed, 30 Dec 2020 15:47:45 +0000</pubDate>
-      
-      <guid>https://ricardomokhtari.github.io/projects/over-easi/</guid>
-      <description>Over-EASI is a web app interface for clinicians and researchers to upload and manage paients&#39; scored Eczema images. You can view the website here.
-Over-EASI was built with React, Bootstrap, Java and PostgreSQL.</description>
     </item>
     
   </channel>
